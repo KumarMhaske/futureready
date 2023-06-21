@@ -6,7 +6,8 @@ This is a web based application developed for health related website in india
 
 
 **Project Link** - https://yellow-desert-0520fda10.3.azurestaticapps.net
-**Project Demo Link** - https://kumarmhaske.github.io/futureready/
+
+**Project Github Demo Link** - https://kumarmhaske.github.io/futureready/
 
 ## Features and Functionalities 😃
 
